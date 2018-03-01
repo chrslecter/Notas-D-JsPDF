@@ -56,5 +56,14 @@
     <meta name="msvalidate.01" content="DFE42254B50D3A27AEB941A8722F5C69">
     <meta name="google-site-verification" content="U3V_ROkyAiyC8ercZKwlvs_gvWWeCmlc87MfNxmhq_k">
     <meta name="yandex-verification" content="7f7e053daf9b0a85">
+
+
+    <style type="text/css">
+        @font-face {
+    font-family: HelveticaThin;
+    src: url(js/fonts/HLT.ttf);
+}
+
+    </style>
 </head>
 
